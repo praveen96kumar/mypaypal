@@ -1,0 +1,126 @@
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+h2 {
+    font-size: 2rem;
+    font-weight: lighter;
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: blue;
+}
+
+/* Nav bar */
+
+.brand-title {
+    font-weight: bolder;
+    font-size: 2rem;
+    color: darkblue;
+}
+
+.navigation {
+    padding: 0% 15%;
+}
+
+.nav-link {
+    padding: 0% 15%;
+}
+
+.nav-item {
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 5%;
+}
+
+.nav-bar {
+    padding-right: 30%;
+}
+
+.btn {
+    margin: 10px;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 50px;
+}
+
+/* title */
+
+.title-1 {
+    padding: 2%;
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+}
+
+.title-2 {
+    padding: 2%;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+
+/* features */
+
+.feature-1 {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 10%;
+    gap: 30%;
+    align-items: flex-end;
+}
+
+.feature-2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 10%;
+    gap: 30%;
+    align-items: flex-end;
+}
+
+.feature-3 {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 10%;
+    gap: 30%;
+    align-items: flex-end;
+}
+
+.feature-image-1 {
+    width: 30%;
+}
+
+.feature-image-2 {
+    width: 30%;
+}
+
+/* press */
+
+.press {
+    padding: 5% 30%;
+}
+
+.press-logo {
+    width: 20%;
+    margin: 2% 5%;
+}
+
+.press-text {
+    text-align: center;
+    font-weight: lighter;
+    font-size: 2rem;
+    color: blue;
+    padding: 0% 10%;
+    padding-top: 5%;
+}
+
+/* terms */
+
+.terms {
+    padding: 0% 15%;
+}
